@@ -1,4 +1,6 @@
+
+
 # pytorch-jax-implementation
 
-- introduction to pytorch(activation_function,introduction)
-- jax tutorial for deep learning(introduction, activation_function)
+- Introduction to PyTorch (activation_function, introduction)
+- JAX Tutorial for Deep Learning (introduction, activation_function)
