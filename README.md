@@ -1,6 +1,6 @@
 # pytorch-jax-implementation
 
-Activation-Functiom
+-Activation-Function
 optimisations
 initiations
 Vision-Transformer
